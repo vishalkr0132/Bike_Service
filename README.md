@@ -10,11 +10,11 @@ Users can create accounts using email and password or opt for a quicker login th
 <h2>Features and Functionality</h2>
 
 <ul> 
-  <li> CRUD operations ( Add, Manage, and Delete services with ease.) </li>
-  <li> Authentication ( Utilizes Firebase and JWT for secure authentication.) </li>
-  <li> Email verification & Reset password </li>
-  <li> User can Book services </li>
-  <li> User can Order services through checkout page and can view ther order on order page </li>
+  <li> CRUD operations : Add, Manage, and Delete services with ease. </li>
+  <li> Authentication :Utilizes Firebase and JWT for secure authentication. </li>
+  <li> Email verification & Reset password :Enhanced security features with email verification and password reset functionalities.</li>
+  <li> Booking services:Users can easily browse and book services based on their requirements. </li>
+  <li> Checkout Process:Seamless checkout process for users to confirm and pay for their selected services. </li>
 </ul>
 
 <h2>Used Technology</h2>
@@ -22,7 +22,7 @@ Users can create accounts using email and password or opt for a quicker login th
 <p>FrontEnd</p>
 
 <ul> 
-  <li>React Js</li>
+  <li>React Js :Provides a dynamic and responsive user interface</li>
   <li>Javascript (ES6)</li>
   <li>HTML-5</li>
   <li>CSS-3</li>
@@ -31,24 +31,25 @@ Users can create accounts using email and password or opt for a quicker login th
 <p>BackEnd</p>
 
 <ul> 
-  <li>Node Js</li>
-  <li>Express js</li>
+  <li>Node JS:Powers the server-side application logic.</li>
+  <li>Express JS:Web application framework for Node JS, ensuring a robust backend.</li>
 </ul>
-
 <p>Database</p>
 
 <ul> 
-  <li>Mongo DB</li>
+  <li>Mongo DB:A NoSQL database for flexible and scalable data storage.</li>
 </ul>
 
 <h2>Used Library</h2>
 
 <ul> 
-  <li>React Router 6</li>
-  <li>React Firebase Hooks</li>
-  <li>React Toastify</li>
-  <li>JWT (  JSON Web Token )</li>
-  <li>AXIOS</li>
-  <li>React Bootstrap</li>
-  <li>Bootstrap 5.2</li>
+  <li>React Router 6:Facilitates navigation in the React application.</li>
+  <li>React Firebase Hooks:Simplifies integration with Firebase services in React.</li>
+  <li>React Toastify:Provides user-friendly toast notifications for better user experience.</li>
+  <li>JWT (JSON Web Token):Ensures secure transmission of information between parties.</li>
+  <li>AXIOS:Simplifies HTTP requests in the application.</li>
+  <li>React Bootstrap:Integrates Bootstrap components seamlessly into React applications.</li>
+  <li>Bootstrap 5.2:The latest version of the popular CSS framework for a responsive and modern design.</li>
 </ul>
+
+<li>This README provides an overview of the Bike Service Center, detailing its features, technologies, and libraries used. It serves as a comprehensive guide for developers and users alike.</li>
