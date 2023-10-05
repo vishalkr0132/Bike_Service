@@ -52,4 +52,4 @@ Users can create accounts using email and password or opt for a quicker login th
   <li>Bootstrap 5.2:The latest version of the popular CSS framework for a responsive and modern design.</li>
 </ul>
 
-<li>This README provides an overview of the Bike Service Center, detailing its features, technologies, and libraries used. It serves as a comprehensive guide for developers and users alike.</li>
+  <li>This README provides an overview of the Bike Service Center, detailing its features, technologies, and libraries   used. It serves as a comprehensive guide for developers and users alike.</li>
