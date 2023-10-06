@@ -53,3 +53,11 @@ Users can create accounts using email and password or opt for a quicker login th
 </ul>
 
   <li>This README provides an overview of the Bike Service Center, detailing its features, technologies, and libraries   used. It serves as a comprehensive guide for developers and users alike.</li>
+
+  <h3>Home Page</h3>
+  ![Screenshot 2023-10-06 111906](https://github.com/vishalkr0132/Bike_Service/assets/131611139/5d931015-9d4b-4f9a-b414-4f6595ede59c)
+  ![Screenshot 2023-10-06 111921](https://github.com/vishalkr0132/Bike_Service/assets/131611139/666705ef-242b-4e2a-b678-204edcf4227a)
+  ![Screenshot 2023-10-06 111935](https://github.com/vishalkr0132/Bike_Service/assets/131611139/a81bf9e0-6a23-4e9e-9adc-ed9d4012c79d)
+
+
+
