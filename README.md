@@ -63,7 +63,9 @@ Users can create accounts using email and password or opt for a quicker login th
   ![Screenshot 2023-10-06 112001](https://github.com/vishalkr0132/Bike_Service/assets/131611139/278a2c8d-432e-4beb-9cf8-0b3f3d5ab70d)
   ![Screenshot 2023-10-06 112013](https://github.com/vishalkr0132/Bike_Service/assets/131611139/1ff7ae78-80cc-48a1-819e-327fcf1470d1)
   ![Screenshot 2023-10-06 112028](https://github.com/vishalkr0132/Bike_Service/assets/131611139/08cf0dc3-6a60-4597-935d-66eab406bfa0)
-  ![Screenshot 2023-10-06 112107](https://github.com/vishalkr0132/Bike_Service/assets/131611139/4ab3c935-8823-42b0-8472-57c48c43f659)<h3>SignUp/SignIn</h3>
+  ![Screenshot 2023-10-06 112107](https://github.com/vishalkr0132/Bike_Service/assets/131611139/4ab3c935-8823-42b0-8472-57c48c43f659)
+  
+  <h3>SignUp/SignIn</h3>
   
 ![Screenshot 2023-10-06 112042](https://github.com/vishalkr0132/Bike_Service/assets/131611139/ad741cbb-76c6-4268-af93-bd54e54028dd)
 ![Screenshot 2023-10-06 112146](https://github.com/vishalkr0132/Bike_Service/assets/131611139/40c53967-6fa1-46a8-a748-5c77e14fefc7)
